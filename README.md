@@ -1,2 +1,2 @@
 # hello-world
-very first repository, created reading the "hello world guide"
+hi there, i like coding since i was i teenager
